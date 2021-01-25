@@ -13,8 +13,8 @@
 
 # Cached || Compiled
 cache/*
-
 app/cache/*
+wwwroot/cache/*
 
 # Composer packages
 vendor/*
